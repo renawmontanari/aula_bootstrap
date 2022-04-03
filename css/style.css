@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins & display=swap');
+
+body {
+    font: 20px 'Poppins', sem serifa;
+}
+
+.navbar {
+    background-color: #bdc5c5;
+}
+
+.quem-somos {
+    background-color: rgb(114, 194, 186); 
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: rgb(114, 194, 186);
+}
+
+.servicos {
+    background-color: rgb(114, 194, 186);
+}
+
+.bg-footer {
+    background-color: #8a8b8b;
+    color: black;
+}
